@@ -1,0 +1,7 @@
+app:
+  node-rpc-address: https://testnet.citahub.com
+  contract-address: "0x22ef04dadede5b7851a6bf5e0a4b0ec91da6a019"
+  private-key: "009ddc5c57e2e1037acb885a2addb401009973dc45d01a7d7786680f68ea99bcc1"
+
+server:
+  port: 8080
